@@ -21,4 +21,4 @@ Release/
 *.swp
 *.lock
 *.log
-EOF
+EOF*.sln
